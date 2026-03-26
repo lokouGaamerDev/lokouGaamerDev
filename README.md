@@ -3,6 +3,7 @@
 💻 Exploring AI, Physics & Software Development
 
 ---
+
 ## 🚀 Projects
 
 * 🧠 **AI Focus Monitoring System**
