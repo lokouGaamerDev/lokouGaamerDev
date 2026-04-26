@@ -28,7 +28,7 @@
 
 ## 📈 Goals
 
-* Crack JEE
+* Crack IAT
 * Build AI-powered tools
 * Master Physics + Programming
 
